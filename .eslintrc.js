@@ -26,4 +26,4 @@ module.exports = {
     "padded-blocks": 0,
     "no-multiple-empty-lines": 0
   }
-}
+};
