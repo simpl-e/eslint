@@ -1,15 +1,10 @@
 module.exports = {
-  root: true,
-  parser: 'babel-eslint',
-  parserOptions: {
-    sourceType: 'module'
-  },
-  env: {
-    browser: true,
-  },
   plugins: [
     "html"
   ],
+  settings: {
+    "html/html-extensions": [".html", ".php"]
+  },
   extends: 'standard',
   rules: {
     "indent": [1, 4, { "SwitchCase": 1 }],
