@@ -11,3 +11,6 @@
 ### Guardar .eslintrc.js en:
 ~/.eslintrc
 C:\Users\username\.eslintrc (windows)
+
+### Para activar:
+Cerrar y volver a abrir vscode
