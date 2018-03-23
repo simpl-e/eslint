@@ -13,7 +13,7 @@ Para formatear código, instalar el plugin "**Beautify**"
 
 ### eslint
 
-Ejecutar:
+Para instalar ejecutar:
 ```
 npm install -g eslint
 npm install -g eslint-config-standard
