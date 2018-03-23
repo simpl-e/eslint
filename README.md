@@ -55,13 +55,13 @@ Añadir 'php-cs-fixer.*' de 'settings.json' +
 
 Para estandarización de archivos 'README.md', instalar '**markdownlint**' 
 
-# Bonuses
+## Bonuses
 
-## Iconos más llamativos en el arbol de proyectos:
+### Iconos más llamativos en el arbol de proyectos:
 
 Instalar plugin "**vscode-icons**"
 
-## Mostrar árbol de archivos
+### Mostrar árbol de archivos
 
 * Instalar plugin "**Custom CSS and JS**"
 * 'F1' + 'User Settings'
@@ -72,7 +72,7 @@ Instalar plugin "**vscode-icons**"
 ```
 Ignorar si pone "Your Code installation appears to be corrupt. Please reinstall."
 
-#### En interfaz blanca
+##### En interfaz blanca
 
 ```
    "vscode_custom_css.imports": [
