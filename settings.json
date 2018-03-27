@@ -1,7 +1,4 @@
 {
-    "workbench.colorCustomizations": {
-        
-    },
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "workbench.colorTheme": "NetBeans Light Theme",
     "gitlens.keymap": "alternate",
