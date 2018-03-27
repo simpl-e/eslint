@@ -20,6 +20,27 @@
         "html",
         "php"
     ],
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "php"
+        ]
+    },
     "php.validate.run": "onType",
     "php.validate.executablePath": "C:\\xampp7.1\\php\\php.exe",
     "php.validate.enable": true,
